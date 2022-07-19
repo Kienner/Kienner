@@ -1,4 +1,5 @@
-### Seja bem-vindo(a) ao meu repositório! ❤️💻
+### Seja bem-vindo(a) ao meu repositório! ❤️
+#### Fique à vontade para conhecer meus códigos 💻
 
 <div align="center">
   <a href="https://github.com/Kienner">
