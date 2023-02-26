@@ -1,7 +1,12 @@
-### Seja bem-vindo(a) ao meu repositório! ❤️
-#### Fique à vontade para conhecer meus códigos 💻
 
-<div align="center">
+
+
+### Seja bem-vindo(a) ao meu repositório! ✌️
+#### <i>Cursando Análise e desenvolvimento de Sistemas | 4/6</i>
+
+#### Fique à vontade para conhecer meus projetos 💻
+
+<div>
   <a href="https://github.com/Kienner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kienner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kienner&layout=compact&langs_count=7&theme=tokyonight"/>
