@@ -6,13 +6,7 @@
 
 #### Fique à vontade para conhecer meus projetos 💻
 
-<div>
-  <a href="https://github.com/Kienner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kienner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kienner&layout=compact&langs_count=7&theme=tokyonight"/>
-    
-  <img src="https://producaodejogos.com/wp-content/uploads/2018/05/animacao_megaman_-running.gif">
-</div>
+
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
