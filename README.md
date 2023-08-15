@@ -2,7 +2,7 @@
 
 
 ### Seja bem-vindo(a) ao meu repositório! ✌️
-#### <i>Cursando Análise e desenvolvimento de Sistemas | 4/6</i>
+#### <i>Cursando Análise e desenvolvimento de Sistemas | 5/6</i>
 
 #### Fique à vontade para conhecer meus projetos 💻
 
