@@ -36,6 +36,7 @@
   💼 Ferramentas: (adicionar depois) 
 
   <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" heigth="45"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="45" heigth="45" />
   </div>
 </p>
