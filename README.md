@@ -29,6 +29,7 @@
   💼 Estudando
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" width="35" heigth="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="35" heigth="35" align="center" />
 </div>
 </p>
 
